@@ -120,7 +120,7 @@ public class selection {
     public static void main(String[] args) {
 
 //        1) check the number is even of odd
-//        evenOdd1();
+        evenOdd1();
 
 //        2) a person is eligible for voting or not
 //        vote2();

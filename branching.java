@@ -88,10 +88,10 @@ public class branching {
 
     public static void main(String[] args) {
 
-//        choose from square , cube and check the year is leap or not
+//       1) choose from square , cube and check the year is leap or not
         choose();
 
-//        Arithmatic operations + - * /
+//      2)  Arithmatic operations + - * /
 //        calci();
 
 //

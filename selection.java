@@ -68,9 +68,9 @@ public class selection {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter your 1st number :");
         int n = scan.nextInt();
-        System.out.print("Enter your 1st number :");
+        System.out.print("Enter your 2nd number :");
         int m = scan.nextInt();
-        System.out.print("Enter your 1st number :");
+        System.out.print("Enter your 3rd number :");
         int a = scan.nextInt();
         if(n==m && m==a){
             System.out.println("all numbers are equal ");
